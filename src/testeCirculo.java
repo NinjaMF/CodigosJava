@@ -1,6 +1,6 @@
 import com.senac.SimpleJava.Console;
 
-public class teste {
+public class testeCirculo {
 
 	public void run() {
 		
